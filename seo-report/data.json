@@ -1,0 +1,30 @@
+{
+  "score": 83,
+  "issues": [
+    {
+      "type": "warning",
+      "message": "Meta description too long (180 chars). May be truncated."
+    },
+    {
+      "type": "warning",
+      "message": "Multiple <h1> tags found (44). Best practice is to have only one."
+    },
+    {
+      "type": "warning",
+      "message": "257 image(s) missing alt text"
+    }
+  ],
+  "passed": [
+    "Title tag is properly configured",
+    "Canonical URL is set",
+    "Open Graph meta tags present",
+    "Viewport meta tag present",
+    "Language attribute set"
+  ],
+  "meta": {
+    "title": "Happy Brains - Centro Educativo CDMX",
+    "description": "Happy Brains es un preescolar con enfoque en inteligencias múltiples, educación personalizada, programa bilingüe y desarrollo socioemocional para niños de 6 meses a 6 años de edad.",
+    "canonical": "https://www.happybrains.mx/",
+    "ogImage": "https://framerusercontent.com/assets/dZg0pwTvy2qQeKtlX1ObZ7z5Q.svg"
+  }
+}
